@@ -24,7 +24,7 @@ The dashboard includes the following visualizations:
 Profit by year 2013 and 2014 
 Profit by quarters
 Sale by products and Segment
-Total profit by countries shwo in Map
+Total profit by countries show in Map
 Using Slicer to select years or months
 
 ##Attribution
